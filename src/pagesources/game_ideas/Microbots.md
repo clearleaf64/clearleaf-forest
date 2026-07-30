@@ -1,3 +1,4 @@
+[categories]Game Ideas[/categories]
 # Poke-Parts / MicroInsurgents
 
 Any specific numbers that get referred to in this doc are illustrative and not meant to be balanced or appropriate in the overall system. Also I have never heard of pokemon or medabots in my life.
