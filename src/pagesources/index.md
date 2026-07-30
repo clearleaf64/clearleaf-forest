@@ -13,6 +13,8 @@ The site contains an audio file. What could it be?
 
 This whole site is coming to you through the power of StaticWiki and Github. 
 
+This text should now be here.
+
 
 ![alt text](media/pyoro.png "Pyoro") 
 
