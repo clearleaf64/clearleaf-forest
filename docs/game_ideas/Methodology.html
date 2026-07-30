@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Clearleaf-Forest: game ideas/Methodology</title>
+
+    <!-- Bootstrap -->
+	<link rel="stylesheet" href="../vendor/css/bootstrap.min.css">
+	
+	<!-- Bootstrap theme -->
+	<link rel="stylesheet" href="../vendor/css/bootstrap-theme.min.css">
+	
+	<!-- Prism theme -->
+	<link rel="stylesheet" href="../vendor/css/prism.css">
+
+
+	
+    <!-- HTML5 shim for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="vendor/js/html5shiv.min.js"></script>
+    <![endif]-->
+	
+	<style type="text/css">
+		.columnowner
+		{
+			position: relative;
+			margin-left: auto;
+			margin-right: auto;
+			padding-right: 15px;
+			padding-left: 15px;
+			width: 1000px;
+			max-width: 100%;
+		}
+	
+		.flexhandler
+		{
+			flex-grow: 0;
+			flex-shrink: 0;
+			flex-basis: 100%;
+			max-width: 100%;
+		}
+		
+		.flexwrapper
+		{
+			display: flex;
+			flex-wrap: wrap;
+		}
+	
+		.item
+		{
+			display: flex;
+			flex-direction: column;
+			background-color: #ffffff;
+			border-top-width: 1px;
+			border-bottom-width: 1px;
+			border-right-width: 1px;
+			border-left-width: 1px;
+			border-top-solid: 1px;
+			border-bottom-solid: 1px;
+			border-left-solid: 1px;
+			border-right-solid: 1px;
+			border-top-style: solid;
+			border-right-style: solid;
+			border-bottom-style: solid;
+			border-left-style: solid;
+			border-top-color: rgba(0, 0, 0, 0.125);
+			border-bottom-color: rgba(0, 0, 0, 0.125);
+			border-left-color: rgba(0, 0, 0, 0.125);
+			border-right-color: rgba(0, 0, 0, 0.125);
+			border-image-source: none;
+			border-image-slice: 100% 100% 100% 100%;
+			border-image-width: 1 1 1 1;
+			border-image-outset: 0 0 0 0;
+			border-image-repeat: stretch stretch;
+			border-top-left-radius: 0.25rem;
+			border-top-right-radius: 0.25rem;
+			border-bottom-left-radius: 0.25rem;
+			border-bottom-right-radius: 0.25rem;
+			border-left-left-radius: 0.25rem;
+			border-left-right-radius: 0.25rem;
+			border-right-left-radius: 0.25rem;
+			border-right-right-radius: 0.25rem;
+			
+			padding-left: 12px;
+			padding-right: 12px;
+			padding-top: 12px;
+			padding-bottom: 12px;
+		}
+		
+		.overlay
+		{
+			position: fixed;
+			left: 0;
+			right: 0;
+			top: 70px;
+			bottom: 0;
+			z-index: 1050;
+			overflow: hidden;
+			outline: 0;
+			visibility: hidden;
+		}
+		
+		#searchResults
+		{
+			padding-left: 15px;
+			padding-right: 15px;
+			padding-top: 15px;
+			padding-bottom: 15px;
+		}
+	</style>
+
+		<!-- Obsidian custom overrides -->
+	<link rel="stylesheet" href="../vendor/css/obsidian.css">
+  </head>
+  <body>
+	<nav class="navbar navbar-default">
+	  <div class="container-fluid">
+		<!-- Brand and toggle get grouped for better mobile display -->
+		<div class="navbar-header">
+		  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+			<span class="sr-only">Toggle navigation</span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+		  </button>
+		</div>
+
+		<!-- Collect the nav links, forms, and other content for toggling -->
+		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+		  <ul class="nav navbar-nav">
+		  <li><a href="../index.html">Introduction</a></li>
+<li><a href="../Sample/Markdown_Sample.html">Markdown Sample</a></li>
+
+		  </ul>
+		  <form class="navbar-form navbar-right">
+			<div class="form-group">
+			  <input type="text" class="form-control" placeholder="Search" id="searchField" onkeyup="javascript:onTextChange()" onblur="javascript:onTextDeSelect()">
+			</div>
+		  </form>
+		</div><!-- /.navbar-collapse -->
+	  </div><!-- /.container-fluid -->
+	</nav>
+	
+	<div class="columnowner">
+		<div class="flexwrapper">
+			<div class="flexhandler">
+				<div class="item">
+					<div class="col-sm-12">
+						
+
+                        
+
+						<h1>game ideas/Methodology</h1>
+
+						
+						<span>
+						<strong>Categories</strong>
+							
+								<a href="../Category_Game_Ideas.html">Game Ideas</a>
+							
+						</span>
+						
+						
+						<hr>
+
+                        
+
+						<h2 id="concept-stage">Concept Stage</h2>
+<h3 id="drafting-and-proving-concept">Drafting and proving concept</h3>
+<p>Lay out a vision of the game through concept art and writing. It DOESN'T have to be a 100% full alakazam precognition of every little moment that will occur. You should not be nailed to it like Jesus. But it should be clear how the core of the game works and what kind of stuff will be built on it. The goal isn't to inspire ideas, be a sales pitch, or negotiate people into working on the game. Its to show the blueprint of what needs to be built and the framework that designers will be able to play around in.</p>
+<p>Solid conceptualization does more than help other people know what to do. It's how you, the designer, get to know if a game will really fly or not. DreamSettler died because Jay Tholen does not work with design docs, which for Hypnospace was fine. But in Dream Settler, the initial idea didn't pan out, and nobody knew what to actually do after years of creating art and systems as groundwork for it. There were no creative differences, no evil publishers, and no sudden losses of staff. They just didn't have an actionable idea like they hoped they did. Tons of Kickstarter projects failed for this reason.</p>
+<p>It's also the main reason artists and programmers insist on pre-envisioning the game so much. It's rough to dedicate a lot of time and work to a project that doesn't pan out. The most important parts of a project shouldn't be left to just &quot;pan out&quot; or not. There's already enough uncertainty.</p>
+<p>To designers this often seems completely unfair and maybe an impossible way to work. But this is where the art of compromise becomes a tool that actually helps you design the game more easily, and also more effectively settle on games that are good TO design. To get started, the best way is with some proper scoping.</p>
+<h3 id="scoping">Scoping</h3>
+<p>Contrary to popular belief, scoping is not a vibes based thing where you have to estimate how much energy you think you'll have for designing things.</p>
+<p>You can scope your game in a very cut and dry way that doesn't stifle your creativity. In fact, the level of your creativity is exactly what you can set your scope by.</p>
+<p>Don't arbitrarily decide the game should have 10 levels just because you think you'll have that much energy. Conceptualize as many levels as you can think of now. If you can only think of 5 truly worthwhile levels concepts, then the game should be designed around 5 good levels. If you think of a crap ton, just keep going until you run out. If you take this list and try to boil it down to the minimum arrangement that embodies everything you really want to have, it will be easier and make you free than if you set an arbitrary goal like 10 levels and had to sit down and try to think of winners until there's 10.</p>
+<p>Apply this to other aspects of the game like enemies. How many enemies can you really think of? This will tell you more about the scope of the project than asking the void how many enemies you &quot;need.&quot;</p>
+<h3 id="scope-filling">Scope filling</h3>
+<p>At this point you should have a loosely defined frame of the game's high level concepts and flow, but nothing super concrete. That comes now. You have your bounded scope, so it's time to fill it in with as much substance as you can. What actually happens in your levels? You know you need enough stuff to fill the number of levels you thought of earlier. This is a LOT easier than just sprinting off without an end in sight.</p>
+<p>Once you start you will probably get rolling and begin thinking of more and more ideas, and you will have urges to either expand the scope or rework old ideas. Do not get ahead of yourself if the frame work is still not full. When it overflows, prioritize concentrating the substance down to pure goodness, rather than expanding the scope to include more redundant junk to deal with.</p>
+<p>Expand it if that feels more right, but keep one thing in mind. Avoid &quot;To Dos&quot; that amount to &quot;hope an idea for this will magically come later.&quot; If the game is going to have puzzles, try to design some puzzles RIGHT NOW to see if you can do it in the current framework. Same for platforming challenges or anything else encompassing the actual substance of the game.</p>
+<p>It can be difficult to work so much in a hypothetical framework, but remember two things.</p>
+<p>Firstly it will not become easier later. If you need to prototype things, you can. But it's a total illusion that it's easier to &quot;continue&quot; something than build it from scratch.</p>
+<p>Secondly your brain might go ADD and gaslight you into thinking you need to do other stuff, but you don't.</p>
+<h3 id="letting-go">Letting Go</h3>
+<p>If you CAN'T think of anything to actually do with the game, then the idea may be a folly. Or possibly you're not in the right place in life for that idea at this time. That's why it's good to have a bunch of design docs going, so that your spirit can guide you to the right one for the time, skills, and interests you have at this time.</p>
+<p>A really big concept could take years to develop just as a concept. Even a small game could contain a large complicated essence that takes a month or more to fully map out. This is natural because a game isn't interesting if you can figure out everything about it in a couple minutes. You're creating something to befuddle the human mind.</p>
+<p>Humbleness is extremely needed at this stage. Any new concept is not likely to get past here, because most ideas are masturbatory nonsense with no actual coherence, even if they seem coherent mentally. It's just a part of being human.</p>
+<h2 id="pre-alpha-stage">Pre-Alpha stage</h2>
+<p>The objective here is to lay foundations that allow work to be done asynchronously and unordered. In other words you want it to be possible for someone to pick up the project and get to work on pretty much any part that they want. Knowing what the levels are going to be makes it possible to decide on things like what style of tileset you will use. Locking in a template allows artists to begin drawing right away, and level designers don't have to wait for artists either.</p>
+<p>None of the art staff have to actually be &quot;started&quot; during this phase, ie producing things that WILL appear in the game. You're setting things up for them so that they're never deadlocked without anything to do.</p>
+<h2 id="alpha-stage">Alpha stage:</h2>
+<p>This stage is dedicated to implementing the features that designers will utilize and recombine to create the actual campaign of the game. The way I think about it is like this: you're sort of making an exclusive Mario Maker / LittleBigPlanet style level editor for your designers to make stuff with.  If you watch behind-the-scenes documentaries about game devs you will see that this is exactly what designers are doing. They're not hammering out code the whole time, they have a custom level editor where they are making the game in a GUI using in-house tools custom built for the project. In this methodology the alpha stage is about building that stuff up.</p>
+<p>If the features are good, designers will surprise both the director and the programmers with what is possible using their own tools. This reflects the nature of game design.</p>
+<p>Game design is not about dictating how every little thing will happen. It's making a system that is interesting to explore and push the limits of.</p>
+<p>For that reason it's good if some designers can be involved in how the features are implemented, since they will be using them and will likely have good feedback and suggestions. Designers do not want to get 50% of the way through a project and then a new powerful feature comes in when they already made the whole game without utilizing it. Programmers don't want to find out an important need was not accounted for. As much power should be available at the start as possible.</p>
+<p>This stage is your last chance to be fast and loose with the features and what is required of them. Small things can be added and tweaked later of course, but you are failing your team if you make them throw away work just because you changed your mind about something.</p>
+<h2 id="beta">Beta</h2>
+<p>This is where designers are actually making the game out of the features created in alpha. Levels are being built. Scenarios are being set up. Features CAN change but it comes at a larger cost now. The final vestiges of the alpha phase are still going and never really end as the features will need support as the applications expand.</p>
+<p>During this phase, it should be possible for the Todo list to encompass everything that will need to be done. Dealing with these tasks will result in discovering new tasks that need to be added to the end of the current list. But that will happen less and less often until everything is done.</p>
+<h2 id="pre-release">Pre-release</h2>
+<p>Everything is basically in place and you're just polishing it up and packing in any last bits of goodness that don't require screwing with things that are verified as working perfectly.</p>
+
+						
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="columnowner overlay" id="searchResultsCover">
+		<div class="searchItemContainer item" style="height: 90%; overflow: visible">
+			<h2 style="text-align: center">Search results</h2>
+			
+			<div id="searchResults">
+			</div>
+		</div>
+	</div>
+	
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="../vendor/js/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+	<script src="../vendor/js/bootstrap.min.js"></script>
+	<!-- Prism js -->
+	<script src="../vendor/js/prism.js"></script>
+		
+	<script type="text/javascript">
+		var searchNames = ["Notes and Documentation","IPFS dreams","Changelog","radio-plan","Instructions","Category:Markdown","Forest","Templates","Category:Sample","Markdown Sample","game ideas/Microbots","game ideas/Dora KH","game ideas/Methodology","game ideas/UFO Mechanic","game ideas/Farmbot","clf/home","Category:Game Ideas","Category:Cool Pages","Category:Poo"];
+		var searchURLs = ["../Notes.html","../IPFS_dreams.html","../Changelog.html","../radio-plan.html","../Instructions.html","../Category_Markdown.html","../index.html","../Templates.html","../Category_Sample.html","../Sample/Markdown_Sample.html","../game_ideas/Microbots.html","../game_ideas/Dora_KH.html","../game_ideas/Methodology.html","../game_ideas/UFO_Mechanic.html","../game_ideas/Farmbot.html","../clf/home.html","../Category_Game_Ideas.html","../Category_Cool_Pages.html","../Category_Poo.html"];
+		
+		function onTextDeSelect()
+		{
+			setTimeout("$('#searchResults').html(''); $('#searchResultsCover').css('visibility', 'hidden')", 200);
+		}
+		
+		function onTextChange()
+		{
+			var text = $('#searchField').val();
+			
+			if(text.length == 0)
+			{
+				$('#searchResultsCover').css('visibility', 'hidden');
+
+				return;
+			}
+			
+			var results = [];
+			
+			for(var i = 0; i < searchNames.length; i++)
+			{
+				if(searchNames[i].toLowerCase().indexOf(text.toLowerCase()) >= 0)
+				{
+					results[results.length] = {
+						name: searchNames[i],
+						URL: searchURLs[i]
+					};
+				}
+			}
+			
+			if(results.length == 0)
+			{
+				$('#searchResultsCover').css('visibility', 'hidden');
+
+				return;
+			}
+			
+			var HTML = "";
+			
+			for(var i = 0; i < results.length; i++)
+			{
+				HTML += "<a href=\"" + results[i].URL + "\">" + results[i].name + "</a><br /><br />";
+			}
+			
+			$('#searchResultsCover').css('visibility', 'inherit');
+			$('#searchResults').html(HTML);
+		}
+		
+		$(document).ready(function() 
+		{
+			$('a[href$="#"]')
+				.wrap("<strong></strong>")
+				.addClass("text-danger");
+				
+		});
+	</script>
+  </body>
+</html>
