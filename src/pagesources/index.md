@@ -11,7 +11,7 @@ The site contains an audio file. What could it be?
   Your browser does not support the audio element.
 </audio>
 
-This whole site is coming to you through the power of IPFS and StaticWiki. It's nothing but files. No server at all.
+This whole site is coming to you through the power of StaticWiki and Github. 
 
 
 ![alt text](media/pyoro.png "Pyoro") 
