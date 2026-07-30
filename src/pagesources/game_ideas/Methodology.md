@@ -54,7 +54,7 @@ None of the art staff have to actually be "started" during this phase, ie produc
 
 ## Alpha stage: 
 
-This stage is dedicated to implementing the features that designers will utilize and recombine to create the actual campaign of the game. The way I think about it is like this: you're sort of making an exclusive Mario Maker / LittleBigPlanet style level editor for your designers to make stuff with.  If you watch behind-the-scenes documentaries about game devs you will see that this is exactly what designers are doing. They're not hammering out code the whole time, they have a custom level editor where they are making the game in a GUI using in-house tools custom built for the project. In this methodology the alpha stage is about building that stuff up.
+This stage is dedicated to implementing the features that designers will utilize and recombine to create the actual campaign of the game. The way I think about it is like this: you're making an exclusive Mario Maker / LittleBigPlanet for your designers to make stuff with.  If you watch behind-the-scenes documentaries about game devs you will see that this is exactly what designers are doing. They're not hammering out code the whole time, they have a custom level editor where they are making the game in a GUI using in-house tools custom built for the project. In this methodology the alpha stage is about building that stuff up.
 
 If the features are good, designers will surprise both the director and the programmers with what is possible using their own tools. This reflects the nature of game design.
 
@@ -68,7 +68,7 @@ This stage is your last chance to be fast and loose with the features and what i
 
 This is where designers are actually making the game out of the features created in alpha. Levels are being built. Scenarios are being set up. Features CAN change but it comes at a larger cost now. The final vestiges of the alpha phase are still going and never really end as the features will need support as the applications expand.
 
-During this phase, it should be possible for the Todo list to encompass everything that will need to be done. Dealing with these tasks will result in discovering new tasks that need to be added to the end of the current list. But that will happen less and less often until everything is done. 
+During this phase, it should be possible for the Todo list to encompass everything that will need to be done. Dealing with these tasks will result in discovering new tasks that need to be added to the end of the current list. But that will happen less and less often until eventually you just don't have any show-stopping tasks anymore. 
 
 ## Pre-release
 
