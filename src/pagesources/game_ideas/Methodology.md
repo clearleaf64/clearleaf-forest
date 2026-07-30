@@ -18,7 +18,7 @@ Contrary to popular belief, scoping is not a vibes based thing where you have to
 
 You can scope your game in a very cut and dry way that doesn't stifle your creativity. In fact, the level of your creativity is exactly what you can set your scope by.
 
-Don't arbitrarily decide the game should have 10 levels just because you think you'll have that much energy. Conceptualize as many levels as you can think of now. If you can only think of 5 truly worthwhile levels concepts, then the game should be designed around 5 good levels. If you think of a crap ton, just keep going until you run out. If you take this list and try to boil it down to the minimum arrangement that embodies everything you really want to have, it will be easier and make you free than if you set an arbitrary goal like 10 levels and had to sit down and try to think of winners until there's 10.
+Don't arbitrarily decide the game should have 10 levels just because you think you'll have that much energy. Conceptualize as many levels as you can think of now. If you can only think of 5 truly worthwhile levels concepts, then the game should be designed around 5 good levels. If you think of a crap ton, just keep going until you run out. If you take this list and try to boil it down to the minimum arrangement that embodies everything you really want to have, it will be easier and make you more free than if you set an arbitrary goal like 10 levels and had to sit down and try to think of winners until there's 10.
 
 Apply this to other aspects of the game like enemies. How many enemies can you really think of? This will tell you more about the scope of the project than asking the void how many enemies you "need."
 
