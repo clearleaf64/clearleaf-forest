@@ -1,0 +1,6 @@
+.game-screenshot {
+    width: 400px;
+    height: auto;
+    max-height: 300px;
+    object-fit: contain;
+}
