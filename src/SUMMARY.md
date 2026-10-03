@@ -1,4 +1,4 @@
 # Summary
 
-- [Coolpage](./home.md)
-
+- [Coolpage](./SUMMARY.md)
+- [Also cool page](./image_test.md)
