@@ -8,6 +8,8 @@
 
 A submission for GBJam26! Uncover the lost treasure by using 6 different verbs.
 
+---
+
 ## HORROR.EXE
 
 ![HORROR.EXE screenshot](https://img.itch.zone/aW1nLzI5NTU0MDcxLnBuZw==/105x83%23/NPBkXU.png)
