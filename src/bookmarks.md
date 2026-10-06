@@ -20,10 +20,11 @@ It's hard to find actual decent stuff on the internet.
 
 
 ## Games
-- [Terry's Free Game Of The Week](https://terrysfreegameoftheweek.com/)
-- [Geotastic (free geoguesser)](https://geotastic.net/)
-- [Sage Expo](https://sagexpo.org)
-- [My RetroAchievements profile](https://retroachievements.org/user/clearleaf)
+[Flashpoint Archive Search](https://flashpointarchive.org/search)
+[Terry's Free Game Of The Week](https://terrysfreegameoftheweek.com/)
+[Geotastic (free geoguesser)](https://geotastic.net/)
+[Sage Expo](https://sagexpo.org)
+[My RetroAchievements profile](https://retroachievements.org/user/clearleaf)
 
 ## Gamedev/art
 [Open Game Art](https://opengameart.org/)  
