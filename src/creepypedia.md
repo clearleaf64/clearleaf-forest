@@ -40,6 +40,7 @@ This is a list of creepy or weird topics that is curated to include only real th
 [Floating Islands](https://en.wikipedia.org/wiki/Floating_island)  
 [Blood Rain](https://en.wikipedia.org/wiki/Blood_rain)  
 [Sailing Stones](https://en.wikipedia.org/wiki/Sailing_stones)
+[Singing Sand](https://en.wikipedia.org/wiki/Singing_sand)
 
 ## Anomalies seen by yokels  
 [1886 Great Sheep Panic](https://en.wikipedia.org/wiki/Great_Sheep_Panic)  
