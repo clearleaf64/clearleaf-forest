@@ -18,7 +18,8 @@ It's hard to find actual decent stuff on the internet.
 [RecipeLink](http://recipelink.com)  
 [Old Cookbook Archive](https://archive.org/details/cbk?sort=-downloads)  
 
-
+## Crafts 
+[ColyKnight plush and other sewing patterns](https://cholyknight.com)
 ## Games
 [Flashpoint Archive Search](https://flashpointarchive.org/search)  
 [Terry's Free Game Of The Week](https://terrysfreegameoftheweek.com/)  
