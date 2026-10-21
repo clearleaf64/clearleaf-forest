@@ -4,6 +4,7 @@ It's hard to find actual decent stuff on the internet.
 
 ## Search Engines
 [Marginalia](https://marginalia.nu/)  
+[Qwant](https://www.qwant.com)  
 [Kagi](https://kagi.com/)  
 
 
@@ -35,7 +36,8 @@ It's hard to find actual decent stuff on the internet.
 [Godot Blog](https://godotengine.org/blog/)  
 
 ## Online videos
-[Search Peertube](https://joinpeertube.org/browse-content)
+[Search Peertube](https://joinpeertube.org/browse-content)  
+[Larptube](https://larptube.com/)
 
 
 ## File sharing and archives
