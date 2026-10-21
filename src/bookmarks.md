@@ -15,7 +15,7 @@ It's hard to find actual decent stuff on the internet.
 
 
 ## Maps 
-[Wiki-Map](https://wiki-map.com)  
+[Wiki-Map](https://wiki-map.com/map)  
 
 
 ## Cooking
