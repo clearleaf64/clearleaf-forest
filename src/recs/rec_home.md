@@ -1,5 +1,3 @@
 # Media Recommendations
 
-## Games
-
-Death's Door
+EVERYTHING SUCKS MUAHAHAHA
