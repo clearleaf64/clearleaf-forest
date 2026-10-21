@@ -14,13 +14,19 @@ It's hard to find actual decent stuff on the internet.
 [Recommended Radio Streams](https://github.com/deroverda/recommended-radio-streams)  
 
 
+## Maps 
+[Wiki-Map](https://wiki-map.com)  
+
+
 ## Cooking
 [Based Cooking](http://based.cooking)  
 [RecipeLink](http://recipelink.com)  
 [Old Cookbook Archive](https://archive.org/details/cbk?sort=-downloads)  
 
+
 ## Crafts 
 [ColyKnight plush and other sewing patterns](https://cholyknight.com)
+
 
 ## Games
 [Flashpoint Archive Search](https://flashpointarchive.org/search)  
@@ -29,11 +35,13 @@ It's hard to find actual decent stuff on the internet.
 [Sage Expo](https://sagexpo.org)  
 [My RetroAchievements profile](https://retroachievements.org/user/clearleaf)  
 
+
 ## Gamedev/art
 [Open Game Art](https://opengameart.org/)  
 [Tic80 Fantasy Computer](https://tic80.com)  
 [Lospec Colour Palettes](https://lospec.com/palette-list)  
 [Godot Blog](https://godotengine.org/blog/)  
+
 
 ## Online videos
 [Search Peertube](https://joinpeertube.org/browse-content)  
