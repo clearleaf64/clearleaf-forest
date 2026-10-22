@@ -32,6 +32,7 @@ It's hard to find actual decent stuff on the internet.
 [Flashpoint Archive Search](https://flashpointarchive.org/search)  
 [Terry's Free Game Of The Week](https://terrysfreegameoftheweek.com/)  
 [Geotastic (free geoguesser)](https://geotastic.net/)  
+[cs.rin.ru forum about steam games](https://cs.rin.ru/)  
 [Sage Expo](https://sagexpo.org)  
 [My RetroAchievements profile](https://retroachievements.org/user/clearleaf)  
 
